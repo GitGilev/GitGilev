@@ -24,7 +24,7 @@ I actively work on and have worked on several projects in the past, including, b
 * [**Tea Framework**](https://github.com/rejuvena/tea-framework), a progressive modding library and framework for tModLoader mods.
 * [**Rejuvena**](https://github.com/rejuvena/rejuvena), an advanced content mod for Terraria. -->
 
-## Funky Statistics
+## Statistics
 <div align="center">
   <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=GitGilev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitGilev" />
   <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=GitGilev&hide_border=true&theme=tokyonight" alt="GitGilev" />
