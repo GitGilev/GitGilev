@@ -2,9 +2,9 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=GitGilev" />
 
-# Hey there, I'm [GitGilev]([https://www.youtube.com/@GitGilev])
+# Hey there, I'm [GitGilev](https://www.youtube.com/@GitGilev)
 
-> [GitGilev]([https://www.youtube.com/@GitGilev]) - `GILEVPISTOLET#8519`
+> [GitGilev](https://www.youtube.com/@GitGilev) - `GILEVPISTOLET#8519`
 
 ---
 
