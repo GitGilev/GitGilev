@@ -1,4 +1,4 @@
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
+
 
 <img align="right" src="https://komarev.com/ghpvc/?username=GitGilev" />
 
