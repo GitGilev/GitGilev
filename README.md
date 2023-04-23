@@ -4,7 +4,7 @@
 
 # Hey there, I'm [GitGilev]([https://tomat.dev/](https://www.youtube.com/@GitGilev)).
 
-> [tomat.dev]([https://tomat.dev](https://www.youtube.com/@GitGilev)) - `GILEVPISTOLET#8519`
+> [GitGilev]([https://tomat.dev](https://www.youtube.com/@GitGilev)) - `GILEVPISTOLET#8519`
 
 ---
 
@@ -28,7 +28,7 @@ I actively work on and have worked on several projects in the past, including, b
 <div align="center">
   <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=GitGilev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitGilev" />
   <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=GitGilev&hide_border=true&theme=tokyonight" alt="GitGilev" />
-  59732a9e9e55.svg&theme=tokyonight&langs_count=8&hide_border=true" />
+
 </div>
 
 <!-- <img width="33%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitGilev&theme=tokyonight" alt="GitGilev" /> -->
