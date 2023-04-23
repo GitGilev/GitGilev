@@ -1,6 +1,6 @@
 <img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
 
-<img align="right" src="https://komarev.com/ghpvc/?username=Steviegt6" />
+<img align="right" src="https://komarev.com/ghpvc/?username=GitGilev" />
 
 # Hey there, I'm [Tomat](https://tomat.dev/).
 
@@ -10,7 +10,7 @@
 
 I'm a programmer and Terraria modder
 
-I know **C#**; **Java**; **HTML, CSS and JavaScript**; and **TypeScript** - among other things.
+I know **C#**
 
 Quite a large fan of archival, practically everything I make program probably be kept here if possible. Advocate for free software, willing to settle for open-source.
 
