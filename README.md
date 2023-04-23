@@ -12,7 +12,7 @@ I'm a programmer and Terraria modder
 
 I know **C#** and **Python**
 
-Quite a large fan of archival, practically everything I make program probably be kept here if possible. Advocate for free software, willing to settle for open-source.
+Sometmes advocate for free software, willing to settle for open-source.
 
 <!-- ## Projects
 I actively work on and have worked on several projects in the past, including, but not limited to:
