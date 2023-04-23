@@ -31,4 +31,4 @@ I actively work on and have worked on several projects in the past, including, b
   <img width="50%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=GitGilev&theme=tokyonight&langs_count=8&hide_border=true" />
 </div>
 
-<!-- <img width="33%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steviegt6&theme=tokyonight" alt="Steviegt6" /> -->
+<!-- <img width="33%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitGilev&theme=tokyonight" alt="Steviegt6" /> -->
