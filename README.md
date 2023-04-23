@@ -8,7 +8,7 @@
 
 ---
 
-I'm a programmer and game modder who enjoys reverse-engineering and other nerd stuff like that. I'm known in the Terraria modding community and somewhat exist in the Minecraft modding community. I develop and maintain my own projects as well as several mods for Terraria.
+I'm a programmer and Terraria modder
 
 I know **C#**; **Java**; **HTML, CSS and JavaScript**; and **TypeScript** - among other things.
 
@@ -26,9 +26,9 @@ I actively work on and have worked on several projects in the past, including, b
 
 ## Funky Statistics
 <div align="center">
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=Steviegt6&show_icons=true&theme=tokyonight&hide_border=true" alt="Steviegt6" />
-  <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Steviegt6&hide_border=true&theme=tokyonight" alt="Steviegt6" />
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=Tomat&theme=tokyonight&langs_count=8&hide_border=true" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api?username=GitGilev&show_icons=true&theme=tokyonight&hide_border=true" alt="Steviegt6" />
+  <img width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=GitGilev&hide_border=true&theme=tokyonight" alt="Steviegt6" />
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=GitGilev&theme=tokyonight&langs_count=8&hide_border=true" />
 </div>
 
 <!-- <img width="33%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steviegt6&theme=tokyonight" alt="Steviegt6" /> -->
