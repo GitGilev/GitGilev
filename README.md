@@ -2,17 +2,15 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=GitGilev" />
 
-# Hey there, I'm [GitGilev](https://www.youtube.com/@GitGilev)
+# Hey there, I'm GitGilev
 
-> [GitGilev](https://www.youtube.com/@GitGilev) - `GILEVPISTOLET#8519`
+> GitGilev - `gitgilev`
 
 ---
 
-I'm a programmer and Terraria modder
+I'm a beggining minecrfat modder.
 
-I know **C#** and **Python**
-
-Sometmes advocate for free software, willing to settle for open-source.
+My favourite games are Minecraft and Terraria
 
 <!-- ## Projects
 I actively work on and have worked on several projects in the past, including, but not limited to:
