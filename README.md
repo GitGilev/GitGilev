@@ -8,7 +8,7 @@
 
 ---
 
-I'm a beggining minecrfat modder.
+I'm a beggining minecraft modder.
 
 My favourite games are Minecraft and Terraria
 
